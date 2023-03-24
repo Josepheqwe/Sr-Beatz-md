@@ -57,7 +57,7 @@ COMANDO PRA INSTALAR A PASTA DO BOT, APÓS TUDO OU NÃO ERA NESCESSARIO:
 
 ___-_-_-_-_-
 
-cd /sdcard && rm -rf SrBeatz-md && git clone https://github.com/Jocabot/Sr Beatz-md.git && cd aleatory-md && sh start.sh  
+cd /sdcard && rm -rf SrBeatz-md && git clone https://github.com/Jocabot/SrBeatz-md.git && cd aleatory-md && sh start.sh  
 
 
 _- SÓ BASTA COPIAR ELE TODO, E COLAR LÁ, NÃO É PRA COPIAR A METADE NEM UMA COISA SÓ, É TODO. 
